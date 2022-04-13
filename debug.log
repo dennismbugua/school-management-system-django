@@ -1,0 +1,23 @@
+INFO 2022-04-13 17:04:03,547 Watching for file changes with StatReloader
+WARNING 2022-04-13 17:04:12,588 Not Found: /admin/
+WARNING 2022-04-13 17:04:12,589 "GET /admin/ HTTP/1.1" 404 6187
+WARNING 2022-04-13 17:04:15,043 Not Found: /favicon.ico
+WARNING 2022-04-13 17:04:15,044 "GET /favicon.ico HTTP/1.1" 404 6202
+WARNING 2022-04-13 17:04:17,564 Not Found: /admin/
+WARNING 2022-04-13 17:04:17,567 "GET /admin/ HTTP/1.1" 404 6187
+INFO 2022-04-13 17:04:23,090 "GET / HTTP/1.1" 302 0
+INFO 2022-04-13 17:04:23,354 "GET /accounts/login/?next=/ HTTP/1.1" 200 3989
+INFO 2022-04-13 17:04:23,658 "GET /static/plugins/toastr/toastr.min.css HTTP/1.1" 200 6454
+INFO 2022-04-13 17:04:23,681 "GET /static/dist/css/login-page.css HTTP/1.1" 200 9064
+INFO 2022-04-13 17:04:23,690 "GET /static/plugins/fontawesome-free/css/all.min.css HTTP/1.1" 200 58582
+INFO 2022-04-13 17:04:23,694 "GET /static/plugins/overlayScrollbars/css/OverlayScrollbars.min.css HTTP/1.1" 200 19736
+INFO 2022-04-13 17:04:23,753 "GET /static/dist/css/adminlte.min.css HTTP/1.1" 200 686718
+INFO 2022-04-13 17:04:23,864 "GET /static/plugins/jquery/jquery.min.js HTTP/1.1" 200 88147
+INFO 2022-04-13 17:04:23,878 "GET /static/plugins/overlayScrollbars/js/jquery.overlayScrollbars.min.js HTTP/1.1" 200 42395
+INFO 2022-04-13 17:04:23,891 "GET /static/dist/js/jquery.formset.js HTTP/1.1" 200 13881
+INFO 2022-04-13 17:04:23,899 "GET /static/plugins/toastr/toastr.min.js HTTP/1.1" 200 5253
+INFO 2022-04-13 17:04:23,928 "GET /static/plugins/bootstrap/js/bootstrap.bundle.min.js HTTP/1.1" 200 80704
+INFO 2022-04-13 17:04:23,930 "GET /static/dist/js/adminlte.js HTTP/1.1" 200 59416
+INFO 2022-04-13 17:04:23,940 "GET /static/dist/js/demo.js HTTP/1.1" 200 13042
+INFO 2022-04-13 17:04:24,009 "GET /static/dist/img/login.png HTTP/1.1" 200 445475
+INFO 2022-04-13 17:04:24,180 "GET /static/plugins/fontawesome-free/webfonts/fa-solid-900.woff2 HTTP/1.1" 200 79444
